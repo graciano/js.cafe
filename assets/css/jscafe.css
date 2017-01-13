@@ -1,0 +1,15 @@
+.team-list li{
+    list-style: none;
+    margin-left: 0;
+}
+
+.team-list .author-image {
+    display: inline-block;
+    margin: 0 1em;
+    position: initial;
+}
+
+.team-list .author {
+    display: inline-block;
+    width: 60%;
+}

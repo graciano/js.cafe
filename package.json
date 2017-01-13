@@ -1,0 +1,34 @@
+{
+    "name": "js.cafe",
+    "description": "Tema do js.cafe baseado no casper",
+    "demo": "https://demo.ghost.io",
+    "version": "0.0.1",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Matheus Graciano",
+        "email": "graciano.dev@gmail.com",
+        "url": "http://graciano.tk"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/graciano/jscafe.git"
+    }
+}
