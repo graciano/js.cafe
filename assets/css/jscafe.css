@@ -13,3 +13,7 @@
     display: inline-block;
     width: 60%;
 }
+
+h1, h2, h3, .page-title, .page-description {
+    font-family: 'Courier', monospace;
+}
