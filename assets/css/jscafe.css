@@ -15,5 +15,10 @@
 }
 
 h1, h2, h3, .page-title, .page-description {
-    font-family: 'Courier', monospace;
+    font-family: 'Courier', monospace!important;
+}
+
+.nav li, .nav-title, .menu-button, .subscribe-button {
+    font-family: 'Courier', monospace!important;
+    text-transform: lowercase;
 }
